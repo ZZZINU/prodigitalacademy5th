@@ -2,6 +2,6 @@
 
 프로디지털아카데미 GIT 실습
 
-1. branch
+1. branch 에러 테스트
 2. switch
 3. merge
