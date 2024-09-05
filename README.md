@@ -4,3 +4,4 @@
 
 1. branch
 2. switch
+3. merge
